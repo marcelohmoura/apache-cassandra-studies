@@ -1,0 +1,2 @@
+CREATE INDEX ON alunos(curso);
+SELECT * FROM alunos WHERE curso = 'ANALISE E DESENV SISTEMAS';

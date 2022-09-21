@@ -1,0 +1,2 @@
+INSERT INTO alunos (cpf, ra, curso, endereco_casa, nome) VALUES ('47227585514', 'D284GA7', 'CIENCIA COMP', ['MEU ENDERECO'], 'MARCELO H MOURA');
+INSERT INTO alunos (cpf, ra, curso, endereco_casa, nome) VALUES ('22733554965', 'N503HB9', 'ANALISE E DESENV SISTEMAS', ['MEU ENDERECO'], 'CATARINA FRANCISCA');
