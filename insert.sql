@@ -1,2 +1,4 @@
 INSERT INTO alunos (cpf, ra, curso, endereco_casa, nome) VALUES ('47227585514', 'D284GA7', 'CIENCIA COMP', ['MEU ENDERECO'], 'MARCELO H MOURA');
 INSERT INTO alunos (cpf, ra, curso, endereco_casa, nome) VALUES ('22733554965', 'N503HB9', 'ANALISE E DESENV SISTEMAS', ['MEU ENDERECO'], 'CATARINA FRANCISCA');
+INSERT INTO alunos (cpf, ra, curso, nome, status) VALUES ('36265844896', 'd5gt78', 'EDUCACAO FISICA', 'IGOR GOMES', 'REPROVADO');
+INSERT INTO alunos (cpf, ra, curso, nome, status) VALUES ('987654321', '85656AAA', 'ADMINISTRACAO', 'DAVI SILVA SANTOS E CASTRO', 'CURSANADO');
